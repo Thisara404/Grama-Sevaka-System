@@ -1,0 +1,48 @@
+{
+    "_id": {
+        "$oid": "683773f24cf2805105e5e1eb"
+    },
+    "name": "Thisara's Home",
+    "type": "Residential Area",
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            {
+                "$numberDouble": "80.5697286128998"
+            },
+            {
+                "$numberDouble": "7.298540186916766"
+            }
+        ]
+    },
+    "address": {
+        "street": "Street Address",
+        "city": "City",
+        "district": "District",
+        "postalCode": ""
+    },
+    "description": "Residence with 4 resident(s)",
+    "features": [],
+    "createdBy": {
+        "$oid": "682d94bbac83ac7a091ed233"
+    },
+    "isVerified": true,
+    "numberOfResidents": {
+        "$numberInt": "4"
+    },
+    "status": "confirmed",
+    "isResidence": true,
+    "createdAt": {
+        "$date": {
+            "$numberLong": "1748464626987"
+        }
+    },
+    "updatedAt": {
+        "$date": {
+            "$numberLong": "1748466441026"
+        }
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}

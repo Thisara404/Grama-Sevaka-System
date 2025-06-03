@@ -1,0 +1,18 @@
+.custom-marker-cluster {
+  background: none;
+  border: none;
+}
+
+.cluster-marker {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(27, 86, 253, 0.8);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  border: 2px solid white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
